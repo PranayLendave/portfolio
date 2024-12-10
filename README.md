@@ -1,2 +1,1 @@
-# portfolio
-new portfolio 
+Visit website: https://pranaylendave.github.io/portfolio/
